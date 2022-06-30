@@ -1,0 +1,7 @@
+services:
+  - name: symbol
+    url: http://localhost:8081
+  - name: finance-reminder-application
+    url: http://localhost:8082
+  - name: notification
+    url: http://localhost:8083
